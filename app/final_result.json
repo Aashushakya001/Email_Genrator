@@ -1,0 +1,54 @@
+{
+  "resume_info": {
+    "name": "AYUSH SHAKYA",
+    "contact": {
+      "email": "ayushshakya538@gmail.com",
+      "phone": "+91 8279473770"
+    },
+    "education": [
+      "B.Tech  Computer  Science  graduate  (GLA  University,  2025  — 7.4 CGPA)  with hands -on experience  building",
+      "B.Tech in Computer Science & Engineering",
+      "GLA University, Mathura · CGPA: 7.4 / 10 · 2021 – 2025",
+      "■ 1st Runner -up — IBM Poster Presentation, GLA University",
+      "■ 2nd Runner -up — IBM PPT Presentation, GLA University",
+      "■ Participant — Ideathon, Bareilly & Techathon, GLA University"
+    ],
+    "skills": [
+      "SKILLS",
+      "AI / ML: LLM Fine",
+      "Tuning  (LoRA",
+      "SFT)",
+      "RAG",
+      "Generative  AI",
+      "Deep  Learning",
+      "NLP",
+      "Computer  Vision",
+      "Frameworks: LangChain",
+      "HuggingFace Transformers",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit",
+      "learn",
+      "FastAPI",
+      "Vector DBs: FAISS",
+      "Pinecone"
+    ],
+    "experience_summary": "B.Tech  Computer  Science  graduate  (GLA  University,  2025  — 7.4 CGPA)  with hands -on experience  building production -grade AI systems. Proficient in LLM fine -tuning using LoRA/SFT, Retrieval -Augmented Generation (RAG) pipelines with FAISS and Pinecone, and Lang Chain -based agentic workflows. Shipped a full -stack AI -integrated product"
+  },
+  "job": {
+    "role": "AI/ML Engineer",
+    "skills": [
+      "LLM",
+      "RAG",
+      "Python",
+      "FastAPI"
+    ],
+    "description": "We are hiring AI/ML engineers to build RAG and LLM pipelines, productionize ML models, and deploy scalable APIs."
+  },
+  "missing_skills": [
+    "llm",
+    "python"
+  ],
+  "email": "Subject: Application for AI/ML Engineer\n\nHello AI/ML Engineer hiring team,\n\nI am AYUSH SHAKYA and I would like to apply for the AI/ML Engineer role. My skills include SKILLS, AI / ML: LLM Fine, Tuning  (LoRA, SFT), RAG, Generative  AI, Deep  Learning, NLP, Computer  Vision, Frameworks: LangChain, HuggingFace Transformers, PyTorch, TensorFlow, Scikit, learn, FastAPI, Vector DBs: FAISS, Pinecone.\n\nI have experience: B.Tech  Computer  Science  graduate  (GLA  University,  2025  — 7.4 CGPA)  with hands -on experience  building production -grade AI systems. Proficient in LLM fine -tuning using LoRA/SFT, Retrieval -Augmented Generation (RAG) pipelines with FAISS and Pinecone, and Lang Chain -based agentic workflows. Shipped a full -stack AI -integrated product\n\nSincerely,\nAYUSH SHAKYA\n{'email': 'ayushshakya538@gmail.com', 'phone': '+91 8279473770'}\n",
+  "cover_letter": "Dear Hiring Manager,\n\nI am excited to apply for the AI/ML Engineer role. With skills in SKILLS, AI / ML: LLM Fine, Tuning  (LoRA, SFT), RAG, Generative  AI, Deep  Learning, NLP, Computer  Vision, Frameworks: LangChain, HuggingFace Transformers, PyTorch, TensorFlow, Scikit, learn, FastAPI, Vector DBs: FAISS, Pinecone, and education: B.Tech  Computer  Science  graduate  (GLA  University,  2025  — 7.4 CGPA)  with hands -on experience  building, B.Tech in Computer Science & Engineering, GLA University, Mathura · CGPA: 7.4 / 10 · 2021 – 2025, ■ 1st Runner -up — IBM Poster Presentation, GLA University, ■ 2nd Runner -up — IBM PPT Presentation, GLA University, ■ Participant — Ideathon, Bareilly & Techathon, GLA University, I am confident I can contribute to your team.\n\nRegards,\nAYUSH SHAKYA\n"
+}

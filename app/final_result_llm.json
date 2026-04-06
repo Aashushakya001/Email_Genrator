@@ -1,0 +1,84 @@
+{
+  "model": "groq/compound",
+  "parsed": {
+    "name": "AYUSH SHAKYA",
+    "contact": {
+      "email": "ayushshakya538@gmail.com",
+      "phone": "+91 8279473770",
+      "github": "github.com/ayushshakya",
+      "linkedin": "linkedin.com/in/ayushshakya"
+    },
+    "education": [
+      {
+        "degree": "B.Tech in Computer Science & Engineering",
+        "university": "GLA University, Mathura",
+        "cgpa": "7.4/10",
+        "duration": "2021-2025"
+      },
+      {
+        "degree": "Intermediate (Class XII)",
+        "school": "St. Andrews School, Agra",
+        "percentage": "88.33%",
+        "board": "CBSE",
+        "year": 2021
+      },
+      {
+        "degree": "High School (Class X)",
+        "school": "St. Andrews School, Agra",
+        "percentage": "84.33%",
+        "board": "CBSE",
+        "year": 2019
+      }
+    ],
+    "skills": [
+      "LLM Fine-Tuning (LoRA, SFT)",
+      "RAG",
+      "Generative AI",
+      "Deep Learning",
+      "NLP",
+      "Computer Vision",
+      "LangChain",
+      "HuggingFace Transformers",
+      "PyTorch",
+      "TensorFlow",
+      "Scikit-learn",
+      "FastAPI",
+      "FAISS",
+      "Pinecone",
+      "Azure",
+      "Vercel",
+      "Supabase",
+      "REST APIs",
+      "Python",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Git",
+      "Jupyter",
+      "VS Code"
+    ],
+    "experience_summary": [
+      {
+        "role": "Full Stack Developer",
+        "company": "Preegreen",
+        "duration": "Sep 2025 – Present",
+        "achievements": [
+          "Architected and shipped an AI-integrated full-stack web platform.",
+          "Implemented Google OAuth and session management.",
+          "Integrated third-party payment gateway APIs.",
+          "Built and maintained RESTful APIs using FastAPI."
+        ]
+      },
+      {
+        "role": "Full Stack Developer Intern",
+        "company": "MAAC Pvt. Ltd",
+        "duration": "Jun 2023 – Aug 2023",
+        "achievements": [
+          "Designed and developed responsive web pages.",
+          "Collaborated with the internal team to deliver production-ready UI features."
+        ]
+      }
+    ]
+  }
+}

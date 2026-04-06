@@ -1,0 +1,72 @@
+AYUSH SHAKYA  
+AI / ML Engineer · Generative AI · LLMs · RAG Systems  
+Gurugram, India | ayushshakya538@gmail.com  | +91 8279473770 | github.com/ayushshakya | linkedin.com/in/ayushshakya  
+ 
+PROFESSIONAL SUMMA RY 
+B.Tech  Computer  Science  graduate  (GLA  University,  2025  — 7.4 CGPA)  with hands -on experience  building 
+production -grade AI systems. Proficient in LLM fine -tuning using LoRA/SFT, Retrieval -Augmented Generation (RAG) 
+pipelines with FAISS and Pinecone, and Lang Chain -based agentic workflows. Shipped a full -stack AI -integrated product 
+at an early -stage startup (Preegreen) covering backend APIs, authentication, and payment systems. Seeking ML 
+Engineering or Generative AI roles in product -focused teams.  
+EXPERIENCE  
+Full Stack Deve loper (Remote ) 
+Preegreen  (Link)  · Early -Stage  Startup · Full -Time  
+Sep 2025 – Present | Remote , India  
+■ Architected and shipped an AI -integrated full -stack web platform using Vercel (hosting) and Supabase (backend,  
+DB, auth), reducing time -to-deploy by handling in frastructure end -to-end. 
+■ Implemented  Google  OAuth  and session  management,  enabling  secure  multi -user access  for a scalable  SaaS -style 
+experience.  
+■ Integrated third -party payment gateway APIs to support end -to-end order and transaction workflows.  
+■ Built and maintained  RESTful  APIs  using  FastAPI;  optimised  query  performance  to support  real-time product 
+operations.  
+ 
+Full Stack Developer Intern  
+MAAC Pvt. Ltd  (Link)  · Internship  
+Jun 2023 – Aug 2023 | Agra, India  
+■ Designed and developed responsive web pages using HTML, CSS, and JavaScript.  
+■ Collaborated with the internal team to deliver production -ready UI features.  
+ 
+PROJECTS  
+AI-Powered Customer Support Automation System (LLM + RAG Pipeline)  () 
+Personal Project    · Tech: Python, FAISS, LangChain, Azure, HuggingFace, LoRA  
+■ Fine-tuned  an open -source  LLM using  LoRA/SFT  on domain -specific  Q&A;  data;  achieved  structured, 
+context -aware responses with reduced hallucination.  
+■ Built a RAG pipeline with FAISS vector store; improved response relevance and grounding for customer queries.  
+■ Deployed on Azure with scalable FastAPI endpoints supporting real -time inference.  
+ 
+Hybrid Search RAG System  
+Personal Project · Tech: Pinecone, HuggingFace Embeddings, BM25, Python  
+■ Engineered a hybrid retrieval system combining dense semantic search (HuggingFace embeddings) and sparse  
+BM25 keyword search with rank fusion for superior accuracy.  
+■ Used Pinecone vector DB with dot -product similarity; optimised multi -query performance usin g cosine scoring.  
+ 
+Movie Recommendation System  () 
+Academic Project · Tech: Python, NLTK, Scikit -learn, Cosine Similarity  
+■ Built a content -based  recommendation  engine  using  NLP techniques  — tokenisation,  stemming,  lemmatisation,  and 
+TF-IDF — to compute content similarity across 5,000+ movies.  
+ 
+SKILLS  
+ 
+AI / ML: LLM Fine-Tuning  (LoRA,  SFT),  RAG,  Generative  AI, Deep  Learning,  NLP,  Computer  Vision 
+Frameworks: LangChain, HuggingFace Transformers, PyTorch, TensorFlow, Scikit -learn, FastAPI 
+Vector DBs: FAISS, Pinecone  
+Cloud  & DevOps:  Azure,  Vercel,  Supabase,  REST  APIs 
+Languages: Python, SQL, HTML, CSS, JavaScript 
+Tools: Git, Jupyter, VS Code  
+EDUCATION  
+B.Tech in Computer Science & Engineering  
+GLA University, Mathura · CGPA: 7.4 / 10 · 2021 – 2025  
+Intermediate (Class XII) — 88.33%  
+St. Andrews School, Agra · CBSE · 2021  
+High School (Class X) — 84.33%  
+St. Andrews School, Agra · CBSE · 2019  
+ 
+CERTIFICATIONS  
+■ MongoDB — Skillsoft Software Services  
+■ Machine Learning Specialization — Course ra / DeepLearning.AI  
+■ HuggingFace NLP Course — HuggingFace . 
+ 
+ACHIEVEMENTS & ACTIVITIES  
+■ 1st Runner -up — IBM Poster Presentation, GLA University  
+■ 2nd Runner -up — IBM PPT Presentation, GLA University  
+■ Participant — Ideathon, Bareilly & Techathon, GLA University  
